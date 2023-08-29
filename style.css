@@ -1,0 +1,142 @@
+element.style {
+    display: none;
+}
+table.dataTable.row-border>tbody>tr>th, table.dataTable.row-border>tbody>tr>td, table.dataTable.display>tbody>tr>th, table.dataTable.display>tbody>tr>td {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: nowrap;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 8px 10px;
+}
+table.dataTable th, table.dataTable td {
+    box-sizing: content-box;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table.dataTable {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+body {
+    font: 90%/1.45em "Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif !important;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #fff;
+    position: relative;
+    padding-bottom: 167px !important;
+    height: auto !important;
+    min-height: 100%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: inherit;
+}
+:root {
+    --dt-row-selected: 13, 110, 253;
+    --dt-row-selected-text: 255, 255, 255;
+    --dt-row-selected-link: 9, 10, 11;
+    --dt-row-stripe: 0, 0, 0;
+    --dt-row-hover: 0, 0, 0;
+    --dt-column-ordering: 0, 0, 0;
+    --dt-html-background: white;
+}
+html {
+    height: 100%;
+    font-size: inherit !important;
+}
+html {
+    color: #000;
+    background: #fff;
+}
+ement.style {
+    display: none;
+}
+table.dataTable.row-border>tbody>tr>th, table.dataTable.row-border>tbody>tr>td, table.dataTable.display>tbody>tr>th, table.dataTable.display>tbody>tr>td {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: nowrap;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 8px 10px;
+}
+table.dataTable th, table.dataTable td {
+    box-sizing: content-box;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+table.dataTable {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+body {
+    font: 90%/1.45em "Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif !important;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #fff;
+    position: relative;
+    padding-bottom: 167px !important;
+    height: auto !important;
+    min-height: 100%;
+    box-sizing: border-box;
+    -webkit-font-smoothing: inherit;
+}
+:root {
+    --dt-row-selected: 13, 110, 253;
+    --dt-row-selected-text: 255, 255, 255;
+    --dt-row-selected-link: 9, 10, 11;
+    --dt-row-stripe: 0, 0, 0;
+    --dt-row-hover: 0, 0, 0;
+    --dt-column-ordering: 0, 0, 0;
+    --dt-html-background: white;
+}
+html {
+    height: 100%;
+    font-size: inherit !important;
+}
+html {
+    color: #000;
+    background: #fff;
+}
